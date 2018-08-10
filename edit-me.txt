@@ -1,1 +1,1 @@
-var friends = doc
+This is how we do it.
